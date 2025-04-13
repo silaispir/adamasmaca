@@ -1,0 +1,5 @@
+﻿Derleme şu saatte başlatıldı: 03:58...
+1>------ Derleme başladı: Proje: adamasmaca, Yapılandırma: Debug Any CPU ------
+1>  adamasmaca -> C:\Users\silai\source\repos\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+========== Derleme: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
+========== Derleme şu saatte tamamlandı: 03:58 ve 00,353 saniye sürdü ==========

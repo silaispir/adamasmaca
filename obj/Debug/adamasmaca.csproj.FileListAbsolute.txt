@@ -1,0 +1,7 @@
+C:\Users\silai\source\repos\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe.config
+C:\Users\silai\source\repos\adamasmaca\adamasmaca\bin\Debug\adamasmaca.exe
+C:\Users\silai\source\repos\adamasmaca\adamasmaca\bin\Debug\adamasmaca.pdb
+C:\Users\silai\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.AssemblyReference.cache
+C:\Users\silai\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.csproj.CoreCompileInputs.cache
+C:\Users\silai\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.exe
+C:\Users\silai\source\repos\adamasmaca\adamasmaca\obj\Debug\adamasmaca.pdb
